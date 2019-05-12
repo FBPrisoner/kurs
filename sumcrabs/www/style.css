@@ -1,0 +1,120 @@
+.main
+{
+	background: #F9F9F9;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: 0;
+	margin: 0 auto;
+	float: left;
+}
+.menu
+{
+	background: #DAEB84;
+	width: 100%;
+	height: 10%;
+	position: inherit;
+	bottom: 0px;
+}
+body
+{
+	background: #000000;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	font-size: 30%;
+}
+button
+{
+	border: none;
+	border-right: 1px solid #DEDEDE;
+	background: #F0F0F0;
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.in
+{
+	height: 50%;
+	width: 50%;
+	background: #F0F0F0;
+	margin: 0 auto;
+}
+.info
+{
+	height: 90%;
+	width: 90%;
+	padding: 5%;
+	left: 0;
+	top:5%;
+	padding-bottom: 0;
+	position: absolute;
+	overflow-y: scroll;
+}
+h2
+{
+	margin: 10px auto;
+	font-size: 40px;
+}
+.head
+{
+	color: #F000000;
+	margin-left: 50px;
+	margin-top: 30px;
+	width: 70%;
+	height: 50%;
+}
+.header
+{
+	top:0;
+	left: 0;
+	position: absolute;
+	background: #F0F0F0 ;
+	width: 100%;
+	height: 7%;
+	padding: auto auto;
+}
+.low
+{
+	font-size: 30px;
+}
+details
+{
+	border-radius: 10px;
+	border-top: 1px solid #DEDEDE;
+	border-bottom: 1px solid #DEDEDE;
+}
+.intico
+{
+	height: 36px;
+	width: 36px;
+	float: left;
+}
+summary
+{
+	font-size: 500%;
+}
+.hor
+{
+	position: relative;
+	display: inline-block;
+	padding-top: 25px;
+	float: left;
+}
+.circ
+{
+	border-radius: 25px;
+}
+.btm
+{
+	margin-bottom: 20px;
+}
+.eqq
+{
+	height: 12,5%;
+}
+.eblock
+{
+	font-size: 250%;
+}
